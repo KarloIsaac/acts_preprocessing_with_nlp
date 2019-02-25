@@ -25,6 +25,12 @@ The ideal tool for this endeavor is Natural Language Processing (NLP). Since NLP
 
 The Tool we'll be using is Python. As the project moves forward, we are going to update the list of libraries used.
 
+# Structure of the directory
+
+The directory contains the following files and directories:
+* settings.py. Contains a collection of constants with sensitive information that cannot be shared publicly.
+* security_measure_applied.ipynb. The notebook with description of how the project is being developped.
+
 # Important notes
 
 A special challenge for this project is that all the documents are in Spanish. Since most of the research and projects related to NLP depart from the English language, many resources may not be available in Spanish; however, this is a great opportunity to curate and create this kind of resources!
