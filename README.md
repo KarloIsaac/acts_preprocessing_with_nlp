@@ -30,6 +30,9 @@ The Tool we'll be using is Python. As the project moves forward, we are going to
 The directory contains the following files and directories:
 * settings.py. Contains a collection of constants with sensitive information that cannot be shared publicly.
 * security_measure_applied.ipynb. The notebook with description of how the project is being developped.
+* data. The directory where the data is to be kept. It includes the corpus of inspection acts. Since it contains private information, it cannot be shared publicly.
+* .gitignore. Included as reference of what files and directories are not being committed. 
+* README.md. This file.
 
 # Important notes
 
