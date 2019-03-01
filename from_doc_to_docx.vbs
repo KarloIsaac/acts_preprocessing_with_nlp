@@ -22,4 +22,5 @@ Sub convert_doc_to_docx()
     Set word_document = oWord.Documents.Open(file_path)
     word_document.SaveAs2 file_path & "x", 12
     word_document.close()
+    oWord.Quit
 End Sub
